@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding-top: 100px;
+}
+
+.first {
+  height: 350px;
+  width: 25%;
+  padding: 5px;
+  border: 1px solid black;
+  float: left;
+  margin: 0 16.666% 0 16.666%;
+}
+
+.second {
+  height: 350px;
+  width: 25%;
+  padding: 5px;
+  border: 1px solid black;
+  float: right;
+  margin-right: 16.666%;
+}
+
+.inner {
+  background-color: black;
+  height: 250px;
+}
+
+.btn {
+  width: 100%;
+}
+
+.btn-primary {
+  margin-top: 10px;
+}
+
+.btn-danger {
+  margin: 5px 0 10px 0;
+}
