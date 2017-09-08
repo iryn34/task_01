@@ -21,6 +21,24 @@ body {
   margin-right: 16.666%;
 }
 
+.third {
+  height: 350px;
+  width: 25%;
+  padding: 5px;
+  border: 1px solid black;
+  float: left;
+  margin: 100px 16.666% 100px 16.666%;
+}
+
+.fourth {
+  height: 350px;
+  width: 25%;
+  padding: 5px;
+  border: 1px solid black;
+  float: right;
+  margin: 100px 16.666% 100px 0 ;
+}
+
 .inner {
   background-color: black;
   height: 250px;
